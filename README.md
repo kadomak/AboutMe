@@ -6,7 +6,7 @@ I'm Kowe! Currently, I'm in my senior year at [Florida A&M University](http://Fa
 
 In my spare time, I listen to culture/lifestyle and tech/business podcasts to gain new perspectives. I'm passionate about the intersection of social sciences and technology, so I believe grad school is the best fit for me at the moment. I'm most curious about the role of social media systems in misinformation. 
 
-Feel free to reach out below <img src="https://images.squarespace-cdn.com/content/v1/58dadd12cd0f685d1cbc708f/1542232247899-3ORDCY4IAC2TB4IKVA5C/ke17ZwdGBToddI8pDm48kHhlTY0to_qtyxq77jLiHTtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eCePBQmCOq6e6RIqtw36rA8xcFm0Da2H1dLqbEP_p9gZUFJJH3iB2VhR2SD1qskhQ/finger-pointing-down-gif" width="50px">
+Feel free to reach out below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kowe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kowekadoma/)](https://www.linkedin.com/in/kowekadoma/)
 [![Gmail Badge](https://img.shields.io/badge/-kkadoma99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkadoma99@gmail.com)](mailto:kkadoma99@gmail.com)

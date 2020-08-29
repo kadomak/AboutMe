@@ -1,45 +1,33 @@
 <div align="center">
 
-## Welcome to my page! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img src="https://static.wixstatic.com/media/c1c203_6eea7ea049cf43f0b2dfaccc6894bb81~mv2.gif" width="600px" height="250px">
 
-Hey wassup, My name is Darryl , I'm currently grinding out my last year in Computer Engineering at [Florida A&M University](http://Famu.edu). I write code for fun and in my spare time I....well I write code. Hit me up if you want to collab on a project, I've gained an interested in open source projects. How can you hit me up? My socials are listed below : 
+I'm Kowe! Currently, I'm in my senior year at [Florida A&M University](http://Famu.edu) studying Computer Engineering. I enjoy programming, problem solving, and thinking about the ethical, social, and legal implications of emerging technologies. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Darryl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darryl-brooks-ii-a17a46140/)](https://www.linkedin.com/in/darryl-brooks-ii-a17a46140/)
-[![Instagram Badge](https://img.shields.io/badge/-D.Brooks97-F56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/D.Brooks97/)](https://instagram.com/d.brooks97)
-[![Twitter Badge](https://img.shields.io/badge/-@DarrylB97-0B3C49?style=flat-square&labelColor=0B3C49&logo=Twitter&link=https://twitter.com/DarrylB97)](https://twitter.com/DarrylB97)
-[![Gmail Badge](https://img.shields.io/badge/-DarrylBrooks13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darrylbrooks13@gmail.com)](mailto:darrylbrooks13@gmail.com)
+In my spare time, I listen to culture/lifestyle and tech/business podcasts to gain new perspectives. I'm passionate about the intersection of social sciences and technology, so I believe grad school is the best fit for me at the moment. I'm most curious about the role of social media systems in misinformation. 
 
-Oh yeah while you're here check out my personal website below ✊🏾
+Feel free to reach out below <img src="https://images.squarespace-cdn.com/content/v1/58dadd12cd0f685d1cbc708f/1542232247899-3ORDCY4IAC2TB4IKVA5C/ke17ZwdGBToddI8pDm48kHhlTY0to_qtyxq77jLiHTtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eCePBQmCOq6e6RIqtw36rA8xcFm0Da2H1dLqbEP_p9gZUFJJH3iB2VhR2SD1qskhQ/finger-pointing-down-gif" width="50px">
 
-[![Website Badge](https://img.shields.io/badge/-PersonalWebsite-0B3C49?style=flat-square&labelColor=0B3C49&logo=react&link=https://twitter.com/DarrylB97)](https://Darryl-Brooks.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kowe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kowekadoma/)](https://www.linkedin.com/in/kowekadoma/)
+[![Gmail Badge](https://img.shields.io/badge/-kkadoma99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkadoma99@gmail.com)](mailto:kkadoma99@gmail.com)
+
+
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DarrylBrooks97&show_icons=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DarrylBrooks97)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kadomak)
 
 </div>

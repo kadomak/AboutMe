@@ -26,8 +26,4 @@ Feel free to reach out below <img src="https://images.squarespace-cdn.com/conten
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<br>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kadomak)
-
 </div>

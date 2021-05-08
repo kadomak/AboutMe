@@ -2,7 +2,7 @@
 
 <img src="https://static.wixstatic.com/media/c1c203_6eea7ea049cf43f0b2dfaccc6894bb81~mv2.gif" width="600px" height="250px">
 
-I'm Kowe! I'm an incoming PhD student at Cornell University studying Information Science. As a member of the [Social Technologies Lab](http://https://s.tech.cornell.edu), I'm curious about the role of social media systems in misinformation. I enjoy programming, problem solving, and thinking about the ethical, social, and legal implications of emerging technologies. 
+I'm Kowe! I'm an incoming PhD student at Cornell University studying Information Science. As a member of the [Social Technologies Lab](https://s.tech.cornell.edu), I'm curious about the role of social media systems in misinformation. I enjoy programming, problem solving, and thinking about the ethical, social, and legal implications of emerging technologies. 
 
 In my spare time, I listen to culture/lifestyle and tech/business podcasts to gain new perspectives. 
  
